@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LuckyUn1verse
-- 👀 I’m interested in Spring Boot
-<!---
-LuckyUn1verse/LuckyUn1verse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey! Nice to see you.
+I'm a fresh graduates looking for a job.
+Reach me
+💬 The best way to reach me is sending me an email.
+🎃 Focus on java、c++、Spring Boot.
+📧 Email：cn.summer.neil@gmail.com
